@@ -1,3 +1,10 @@
+body {
+    margin: 30px;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
 .container {
     max-width: 1140px;
 }
@@ -11,6 +18,7 @@
     font-size: 20px;
     font-style: italic;
     font-weight: lighter;
+    margin-bottom: 50px;
 }
 
 p {
